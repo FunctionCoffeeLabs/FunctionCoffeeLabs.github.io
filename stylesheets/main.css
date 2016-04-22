@@ -339,7 +339,7 @@ span {
 /*-------------------------------------------TABLET -----------------------------------------------*/
 @media only screen and (min-width: 600px) and (max-width: 1199px) {
   header {
-  height: 500px;
+  height: 10%;
   /*background-image: url("images/coffee_cheesecake.jpg");*/
   margin-top: -8px;
   margin-left: -8px;
@@ -353,9 +353,9 @@ span {
 }*/
 
 .logo {
-  width: 500px;
+  width: 60%;
   margin-top: 3%;
-  margin-left: 17%;
+  margin-left: 19%;
   border-radius: 10px;
 /*  border: 10px solid #a87b4f;*/
 /*  opacity: .7;*/
@@ -540,7 +540,7 @@ section.module.parallax-2 {
   border-bottom: 5px #dbcfbf solid;
 }
 section.module.parallax-3 {
-  background-image: url("images/red_cup_heart.jpg");
+  background-image: url("images/meg_pour.jpg");
   border-top: 5px #dbcfbf solid;
   border-bottom: 5px #dbcfbf solid;
 }
@@ -550,7 +550,7 @@ section.module.parallax-4 {
   border-bottom: 5px #dbcfbf solid;
 }
 section.module.parallax-5 {
-  background-image: url("images/glass_drip.jpg");
+  background-image: url("images/cup_design_new.jpg");
   border-top: 5px #dbcfbf solid;
   border-bottom: 5px #dbcfbf solid;
 }
