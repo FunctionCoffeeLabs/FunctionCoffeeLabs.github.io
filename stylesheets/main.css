@@ -376,6 +376,10 @@ nav {
   background-color: #233146;
 }
 
+.social_icons_nav {
+  float: right;
+}
+
 .nav_icon {
   width: 30px;
   border-radius: 7px;
