@@ -513,7 +513,7 @@ section.module.parallaxmobile {
   font-family: 'Glegoo', serif;
   color: rgba(255, 255, 255, 0.8);
   line-height: 80px;
-  font-size: 30px;
+  font-size: 50px;
   font-weight: 700;
   text-align: center;
   text-transform: uppercase;
@@ -587,6 +587,7 @@ section.module.parallax-foot {
 
 .define {
   font-family: 'Lato', sans-serif;
+  line-height: 5px;
 }
 
 
