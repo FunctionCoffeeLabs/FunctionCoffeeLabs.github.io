@@ -352,9 +352,9 @@ header {
 }*/
 
 .logo {
-  width: 250px;
-  margin-top: 8%;
-  margin-left: 15%;
+  width: 230px;
+  margin-top: 3%;
+  margin-left: 19%;
   border-radius: 10px;
 /*  border: 10px solid #a87b4f;*/
 /*  opacity: .7;*/
@@ -492,13 +492,23 @@ section.module.content {
   text-align: center;
 }
 section.module.parallax {
+/*  height: 200px;*/
+  /*background-position: 50% 50%;*/
+  /*background-repeat: no-repeat;*/
+/*  background-attachment: fixed;*/
+/*  background-size: cover;
+  width: 100%;*/
+/*  margin-left: -10px;
+  margin-right: -10px;*/
+  display: none;
+}
+
+section.module.parallaxmobile {
   height: 200px;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
+/*  width: 100%;*/
   margin-left: -10px;
-  margin-right: -10px;
+  margin-right: -20px;
 }
 
 .name {
