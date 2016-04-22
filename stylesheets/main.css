@@ -368,7 +368,7 @@ nav {
 
 .nav_dropdown_mobile {
   position: fixed;
-  width: 100%;
+  /*width: 100%;*/
   display: block;
   top: 0px;
   font-family: helvetica;
