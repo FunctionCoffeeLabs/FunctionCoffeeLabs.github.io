@@ -155,6 +155,10 @@ section.module.parallax {
   margin-right: -10px;
 }
 
+section.module.parallaxmobile {
+  display: none;
+}
+
 .name {
   margin-top: 75px;
   margin-bottom: -100px;
