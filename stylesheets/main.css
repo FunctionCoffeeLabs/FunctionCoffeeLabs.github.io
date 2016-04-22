@@ -1,4 +1,4 @@
-@media only screen and (min-width: 960px) {
+@media only screen and (min-width: 1200px) {
 header {
 	height: 620px;
 	/*background-image: url("images/coffee_cheesecake.jpg");*/
@@ -337,7 +337,7 @@ span {
 }
 }
 /*-------------------------------------------TABLET -----------------------------------------------*/
-@media only screen and (min-width: 600px) and (max-width: 959px) {
+@media only screen and (min-width: 600px) and (max-width: 1199px) {
   header {
   height: 500px;
   /*background-image: url("images/coffee_cheesecake.jpg");*/
