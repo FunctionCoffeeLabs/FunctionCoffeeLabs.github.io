@@ -501,7 +501,7 @@ section.module.parallax {
 }
 
 section.module.parallaxmobile {
-  height: 200px;
+  height: 250px;
   background-size: cover;
 /*  width: 100%;*/
   margin-left: -10px;
