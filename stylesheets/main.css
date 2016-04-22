@@ -367,13 +367,11 @@ nav {
 } 
 
 .nav_dropdown_mobile {
-  position: fixed;
-  width: 100%;
+/*  position: fixed;*/
   display: block;
   top: 0px;
   font-family: helvetica;
   z-index: 1;
-  background-color: #233146;
 }
 
 .social_icons_nav {
@@ -603,7 +601,7 @@ section.module.parallax-foot {
 }
 
 .map {
-  width: 500px;
+  width: 200px;
   border: 5px #a87b4f solid;
   margin-bottom: 20px;
 }
