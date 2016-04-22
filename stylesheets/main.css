@@ -338,8 +338,6 @@ span {
 header {
   height: 250px;
   /*background-image: url("images/coffee_cheesecake.jpg");*/
-  background-size: cover;
-  background-repeat: no-repeat;
   margin-top: -8px;
   margin-left: -8px;
   margin-right: -8px;
